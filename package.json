@@ -2,11 +2,12 @@
   "name": "piezo_tiles_react",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://Mikeywantscake.github.io/Piezo-Tiles/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "framer-motion": "^10.12.16",
@@ -18,7 +19,8 @@
   "devDependencies": {
     "autoprefixer": "^10.4.15",
     "postcss": "^8.4.26",
-    "tailwindcss": "^3.3.4"
+    "tailwindcss": "^3.3.4",
+    "gh-pages": "^5.0.0"
   },
   "browserslist": {
     "production": [

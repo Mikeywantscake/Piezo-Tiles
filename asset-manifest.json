@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Piezo-Tiles/static/css/main.211a0ed6.css",
-    "main.js": "/Piezo-Tiles/static/js/main.82aa7995.js",
+    "main.css": "/Piezo-Tiles/static/css/main.23038320.css",
+    "main.js": "/Piezo-Tiles/static/js/main.cd83ab1b.js",
     "index.html": "/Piezo-Tiles/index.html",
-    "main.211a0ed6.css.map": "/Piezo-Tiles/static/css/main.211a0ed6.css.map",
-    "main.82aa7995.js.map": "/Piezo-Tiles/static/js/main.82aa7995.js.map"
+    "main.23038320.css.map": "/Piezo-Tiles/static/css/main.23038320.css.map",
+    "main.cd83ab1b.js.map": "/Piezo-Tiles/static/js/main.cd83ab1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.211a0ed6.css",
-    "static/js/main.82aa7995.js"
+    "static/css/main.23038320.css",
+    "static/js/main.cd83ab1b.js"
   ]
 }
